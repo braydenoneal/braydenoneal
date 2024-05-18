@@ -1,3 +1,5 @@
+![mandelbrot-navigator.svg](images/mandelbrot-navigator.svg)
+
 <!-- <div style='display: flex; border-radius: 6px; border-width: 1px; padding: 16px; border-style: solid; flex-direction: column; width: fit-content; gap: 8px'>
     <a href='https://github.com/braydenoneal/mandelbrot-navigator'>Mandelbrot Navigator</a>
     <span>Java application for displaying and navigating the Mandelbrot set </span>
