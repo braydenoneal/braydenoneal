@@ -1,4 +1,4 @@
-# Projects
+<!-- # Projects
 
 ## Artificial Intelligence
 
@@ -16,3 +16,4 @@
 
 * [CSCI 362: Introduction to Machine Learning](https://github.com/braydenoneal/csci-362)
 * [CSCI 461: Artificial Intelligence](https://github.com/braydenoneal/csci-461)
+-->
