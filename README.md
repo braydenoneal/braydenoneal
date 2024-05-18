@@ -1,14 +1,18 @@
-<!--
-**braydenoneal/braydenoneal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects
 
-Here are some ideas to get you started:
+## Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Neural Audio Classification](https://github.com/braydenoneal/neural-audio-classification)
+
+## Graphics
+
+* [Learning Computer Graphics](https://github.com/braydenoneal/learning-computer-graphics)
+
+## Applications
+
+* [Mandelbrot Navigator](https://github.com/braydenoneal/mandelbrot-navigator)
+
+## Courses
+
+* [CSCI 362: Introduction to Machine Learning](https://github.com/braydenoneal/csci-362)
+* [CSCI 461: Artificial Intelligence](https://github.com/braydenoneal/csci-461)
