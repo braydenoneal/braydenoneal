@@ -1,3 +1,5 @@
+## Projects
+
 ### Artificial Intelligence
 
 [![neural-audio-classification.svg](images/neural-audio-classification.svg)](https://github.com/braydenoneal/neural-audio-classification)
