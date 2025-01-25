@@ -14,8 +14,8 @@
 ### Game Development
 
 [![blogic.svg](images/blogic.svg)](https://github.com/braydenoneal/blogic)
-[![ai-pong-unity-2.svg](images/ai-pong-unity-2.svg)](https://github.com/braydenoneal/ai-pong-unity)
-[![minecraft-clone-2.svg](images/minecraft-clone-2.svg)](https://github.com/braydenoneal/minecraft-clone)
+[![ai-pong-unity.svg](images/ai-pong-unity.svg)](https://github.com/braydenoneal/ai-pong-unity)
+[![minecraft-clone.svg](images/minecraft-clone.svg)](https://github.com/braydenoneal/minecraft-clone)
 
 ### Other
 
