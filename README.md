@@ -21,7 +21,7 @@
 
 ### Other
 
-[![dugit.svg](images/dugit.svg)](https://github.com/braydenoneal/dugit)
+[![dugit.svg](images/dugit.svg)](https://github.com/dugit-app/dugit)
 [![sudoku-solver.svg](images/sudoku-solver.svg)](https://github.com/braydenoneal/sudoku-solver)
 [![indivisual-eyes-backend.svg](images/indivisual-eyes-backend.svg)](https://github.com/indivisual-eyes/indivisual-eyes-backend)
 [![indivisual-eyes-app.svg](images/indivisual-eyes-app.svg)](https://github.com/indivisual-eyes/indivisual-eyes-app)
